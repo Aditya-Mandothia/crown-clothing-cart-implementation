@@ -1,4 +1,4 @@
-# crown-clothing-cart-implementation
+# crown-clothing
 Crown Clothing is an e-commerce full-stack application, based on React.js and we have utilized firebase for backend services and authentication.  We have implemented a cart functionality which get's updated real time. 
 
 ![Screenshot (60)](https://github.com/Aditya-Mandothia/CODE-HELP/assets/81997131/ed40f177-381c-42f7-8eb4-8b48032a35ca)
