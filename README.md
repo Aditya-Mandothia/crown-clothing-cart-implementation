@@ -11,7 +11,7 @@ Here is a preview of the discovery page of CRWN-CLOTHING
 
 ![Screenshot (61)](https://github.com/Aditya-Mandothia/CODE-HELP/assets/81997131/50c467a8-6d6a-4e31-a106-31033eb8a7c1)
 
-Las but not least, a very attractive, responsive, and Self-reflecting cart functionality, updating real-time in UI, utilizing the "React hooks" functionality.
+Last but not least, a very attractive, responsive, and Self-reflecting cart functionality, updating real-time in UI, utilizing the "React hooks" functionality.
 
 ![Screenshot (66)](https://github.com/Aditya-Mandothia/CODE-HELP/assets/81997131/0429d339-a0d3-4fc0-83fd-ce620f4ce65e)
 
